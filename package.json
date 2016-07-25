@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/redux-autoform/redux-autoform-bootstrap-ui#readme",
   "dependencies": {
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^3.3.7",
     "react": "^15.1.0",
     "react-bootstrap": "^0.30.0-rc.1",
     "react-dom": "^15.2.1",
